@@ -4,6 +4,7 @@ This is repo is to maintain AWS Lambda function for Alexa integrations.
 
 To push code to AWS Lambda:
 - Clone this repo
+- run "`npm install`"
 - Create a file `publish.sh` file outsite the folder of this repo.
 - copy / paste this script in `publish.sh`.
 ```
